@@ -1,0 +1,46 @@
+---
+title: "university_cleaning"
+author: "Amanda Overbye"
+format: html
+editor: visual
+editor_options: 
+  chunk_output_type: console
+---
+```{r}
+# Load libraries
+library(tidyverse)
+library(here)
+library(janitor)
+```
+
+
+```{r}
+# Read in and label hd2023.csv
+universities <- read_csv(here('data', 'hd2023.csv'))
+```
+
+```{r}
+# Select the columns I want and get rid of the ones I dont want
+universities_filtered <- universities %>% 
+  select(
+    UNITID,          # Unique institution ID
+    INSTNM,          # Institution name
+    CITY,            # City
+    STABBR,          # State abbreviation
+    ZIP,             # ZIP code
+    WEBADDR,         # Institution website
+    HLOFFER,         # Highest level of offering
+    HDEGOFR1,        # Highest degree offered
+    DEGGRANT,        # Degree-granting status
+    CARNEGIE,        # Carnegie Classification
+    C21BASIC,        # Carnegie Classification 2021: Basic
+    C21SZSET,        # Carnegie Classification 2021: Size and Setting
+    LATITUDE,        # Latitude
+    LONGITUD,        # Longitude
+    FIPS,            # FIPS state code
+    COUNTYCD,        # FIPS County code
+    COUNTYNM,        # County name
+    INSTSIZE         # Institution size
+  )
+```
+
