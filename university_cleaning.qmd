@@ -29,6 +29,7 @@ bells_co_ct_de_dc <- read_csv(here('data', 'Bells_CO_CT_DE_DC.csv'))
 bells_in_states <- read_csv(here('data', 'Bells_In_States.csv'))
 bell_tower_locations <- read_csv(here('data', 'Bell_Tower_Locations.csv'))
 bells_tn <- read_csv(here('data', 'tennessee_bell_towers.csv'))
+bells_in_wy <- read_csv(here('data', 'bell_towers_in_wy.csv'))
 ```
 
 ```{r}
@@ -70,6 +71,9 @@ bells_fl_ga_hi_id_il <- bells_fl_ga_hi_id_il %>%
     City = Location,
     Location = Description
   )
+
+bells_in_wy <- bells_in_wy %>% 
+  rename(Location = Description)
 ```
 
 
@@ -77,12 +81,18 @@ bells_fl_ga_hi_id_il <- bells_fl_ga_hi_id_il %>%
 # Binding bells data
 
 # Merge all datasets
-some_bells <- bind_rows(
+all_bells <- bind_rows(
   bells_fl_ga_hi_id_il,
   bells_co_ct_de_dc,
   bell_tower_locations,
   bells_tn,
-  bells_in_states
+  bells_in_states,
+  bells_in_wy
 )
+```
+
+```{r}
+# Making sure every bell has USA as the country
+all_bells$Country <- "USA"
 ```
 

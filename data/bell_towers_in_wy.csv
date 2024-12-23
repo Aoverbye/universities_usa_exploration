@@ -1,0 +1,793 @@
+City,State,Type,Description
+BLOOMINGTON - 1,USA - IN,trad,Arthur R. Metz Memorial Carillon, Indiana University
+BLOOMINGTON - 2,USA - IN,trad,School of Music Carillon, Music School Building (or Music Annex), Indiana University
+BLOOMINGTON - 3,USA - IN,chime,Student Building, Indiana University
+CARMEL - 1,USA - IN,non-trad,Coxhall Park (west entrance)
+CARMEL - 2,USA - IN,non-trad,Coxhall Park (east entrance)
+CULVER,USA - IN,trad,Memorial Chapel, The Culver Academies (formerly Culver Military Academy)
+ELKHART,USA - IN,chime,NIBCO Centennial Bell Tower
+FORT WAYNE - E,USA - IN,chime,Becker Memorial Chimes, Emmaus Evang. Lutheran Church (LCMS)
+FORT WAYNE - FP,USA - IN,chime,First Presbyterian Church (PCUSA)
+GREENCASTLE,USA - IN,non-trad,Alpha Chi Omega Memorial Carillon, Performing Arts Center, DePauw University
+HUNTINGTON,USA - IN,chime,First M.E. Church
+INDIANAPOLIS - CCC,USA - IN,chime,Christ Church Cathedral (Episcopal)
+INDIANAPOLIS - IP,USA - IN,non-trad,IUPUI Campus Center, Indiana Univ - Purdue Univ Indianapolis
+INDIANAPOLIS - SRC,USA - IN,trad,Scottish Rite Cathedral (Masonic)
+INDIANAPOLIS - TP,USA - IN,chime,Tabernacle Presbyterian Church
+LA PORTE,USA - IN,trad,The Children's Carillon, The Presbyterian Church of La Porte
+LAWRENCEBURG,USA - IN,non-trad,War Memorial to the Common Man
+MARION,USA - IN,chime,J. Wood Wilson Chimes, God's House Ministries (was First Presbyterian Church of Grant County)
+MISHAWAKA,USA - IN,chime,First United Methodist Church
+MUNCIE - BSU,USA - IN,trad,Shafer Tower, Ball State University
+NORTH MANCHESTER,USA - IN,chime,Manchester College
+NOTRE DAME,USA - IN,trad+great,Basilica of the Sacred Heart (RC), University of Notre Dame du Lac
+RICHMOND,USA - IN,chime,Reid Memorial United Presbyterian Church (PCUSA)
+SAINT MARY-OF-THE-WOODS,USA - IN,chime,Church of the Immaculate Conception, St.Mary-of-the-Woods College
+VALPARAISO,USA - IN,chime,Brandt Campanile, Chapel of the Resurrection, Valparaiso University
+WINAMAC,USA - IN,non-trad,St.Peter Catholic Church
+AMES - 1,USA - IA,trad,Stanton Memorial Carillon, Campanile, Iowa State University
+AMES - 2/mobile,USA - IA,trad,Traveling demonstrator, Iowa State University
+CEDAR FALLS,USA - IA,trad,Campanile, University of Northern Iowa
+DAVENPORT - P/1,USA - IA,chime,Palmer College (formerly School) of Chiropractic
+DAVENPORT,USA - IA,,*See also EDGEWOOD : USA - RI chime
+DES MOINES - STP,USA - IA,trad,Cathedral Church of St.Paul (Episcopal)
+DUBUQUE,USA - IA,chime,St.Luke's United Methodist Church
+FORT DODGE,USA - IA,chime,(unknown, elsewhere) was at First United Methodist Church
+IOWA CITY,USA - IA,chime,St.Mary of the Visitation Church (RC) (aka St.Mary of the Assumption)
+JEFFERSON,USA - IA,non-trad,Mahanay Memorial Carillon Tower
+OSKALOOSA - STJ,USA - IA,chime,St.James' Episcopal Church
+SIOUX CITY - F,USA - IA,chime,First United Methodist Church
+SPENCER,USA - IA,chime,Grace United Methodist Church
+STORM LAKE - BV,USA - IA,chime,Schaller Memorial Chapel, Buena Vista University (formerly Buena Vista College)
+WATERLOO,USA - IA,chime,First Presbyterian Church (PCUSA)
+DODGE CITY,USA - KS,non-trad,St.Mary of the Plains College
+LAWRENCE - KU,USA - KS,trad,World War II Memorial Carillon, World War II Memorial Campanile, University of Kansas
+SALINA,USA - KS,non-trad,Christ Episcopal Cathedral
+WICHITA - HC,USA - KS,non-trad,Holy Cross Lutheran Church (LCMS)
+WICHITA - I,USA - KS,chime,Immanuel Lutheran Church
+BEREA - 1,USA - KY,chime,William Goodell Frost Memorial Chimes, Phelps Stokes Chapel, Berea College
+BEREA - 2,USA - KY,trad,John Courter Carillon, Draper Building (Jessie Preston Draper Memorial), Berea College
+BOWLING GREEN,USA - KY,non-trad,Guthrie Plaza clock tower, Western Kentucky University
+COVINGTON - GP,USA - KY,trad,The Carroll Chimes, Goebbel Park
+COVINGTON - T,USA - KY,chime,Trinity Episcopal Church
+DANVILLE,USA - KY,chime,Lexington Avenue Baptist Church (SBC)
+LEXINGTON,USA - KY,chime,Christ Church Cathedral (Episcopal)
+LOUISVILLE - A,USA - KY,non-trad,Cathedral of the Assumption (RC)
+LOUISVILLE - WS,USA - KY,chime,Parr Memorial Chimes (in memory of Maria Marmaduke Parr), Walnut Street Baptist Church (SBC)
+Newport,USA - KY,great,Millennium Monument
+RICHMOND,USA - KY,non-trad,Keen Johnson Building (administration), Eastern Kentucky University
+LAKE CHARLES,LA,non-trad,First Presbyterian Church (PCUSA)
+MORGAN CITY,LA,trad,Brownell Memorial Park
+NEW ORLEANS - G,LA,chime,The Helen McLeary Dufour Memorial Chime, Grace Episcopal Church
+NEW ORLEANS - HN,LA,chime,Holy Name of Jesus Church (RC)
+SHREVEPORT - FB,LA,chime,First Baptist Church (SBC)
+SHREVEPORT - STM,LA,chime/ring,St.Mark's Episcopal Cathedral (was St.Mark's Church)
+AUGUSTA,ME,chime,St.Mark's Episcopal Church
+BANGOR,ME,chime,First Universalist Church
+BAR HARBOR,ME,chime,St.Saviour's Episcopal Church
+BRUNSWICK,ME,chime,Payson Memorial Chimes, Chapel, Bowdoin College
+CAMDEN,ME,chime,St.Thomas' Episcopal Church
+LEWISTON,ME,chime,St.Joseph's Catholic Church
+BALTIMORE - CC,MD,chime,New Refuge Deliverance Cathedral (formerly Christ Episcopal Church)
+BALTIMORE - CL,MD,chime,Christ Lutheran Church (ELCA)
+BALTIMORE - OS,MD,chime,Our Saviour Lutheran Church (LCMS)
+BALTIMORE - STA,MD,chime,St.Alphonsus Catholic Church (National Shrine of St.Alphonsus Liguori)
+BALTIMORE - STJ,MD,chime,St.John's Episcopal Church--Huntingdon
+BALTIMORE - STM,MD,chime,St.Matthew's United Church of Christ (was St.Matthew Evangelical)
+BALTIMORE - STP,MD,non-trad,St.Paul's Episcopal Church
+BALTIMORE - STV,MD,chime,St.Vincent de Paul Catholic Church
+BALTIMORE - YR,MD,chime,J.Joseph Curran Memorial Clock Tower, York Road Development Project
+COLUMBIA,MD,chime,Wharf Bell Tower
+CRISFIELD,MD,chime,Asbury United Methodist Church
+CUMBERLAND - ACC,MD,chime,Allegany College of Maryland (was Allegany Community College)
+CUMBERLAND - STP,MD,chime,St.Paul's Lutheran Church (ELCA)
+EMMITSBURG,MD,chime,Pangborn Memorial Campanile, The National Shrine of Our Lady
+FREDERICK - BP,MD,trad,The Joseph Dill Baker Memorial Carillon, Baker Park
+FREDERICK - C,MD,ring,Calvary United Methodist Church
+FREDERICK - E,MD,chime,Trinity Chimes, Trinity Chapel, Evangelical Reformed Church (UCC)
+MCDONOGH,MD,trad,The McDonogh Carillon, Tagart Memorial Chapel, McDonogh School
+Princess Anne,MD,ring,St.Andrew's Episcopal Church
+SALISBURY - SU,MD,trad,Brown & Church Carillon, Patricia R. Guerrieri Academic Commons, Salisbury University
+SALISBURY - TM,MD,chime,Phillips Memorial Chime, Trinity United Methodist Church
+AMHERST - A,MA,chime,Stearns Steeple, Amherst College
+AMHERST - UM,MA,trad,Warren Elmer Hinds Memorial Chime, Henry Vincent Couper Memorial Carillon, Old Chapel, University of Massachusetts (formerly Mass. State College)
+ANDOVER,MA,non-trad,Samuel Lester Fuller Carillon, Memorial Tower, Phillips Academy
+ARLINGTON,MA,chime,St.Camillus Parish (RC)
+BEVERLY,MA,chime,First Parish Unitarian Church
+BOSTON - A,MA,chime,Phillips Chime, Arlington Street Church (Unitarian-Universalist)
+BOSTON - AS,MA,chime,All Saints Church (Episcopal)
+BOSTON - CA,MA,ring,Church of the Advent (Episcopal)
+BOSTON - CC,MA,ring,Christ Church ("Old North"; Episcopal)
+BOSTON - FCC/2,MA,chime,West tower, First Church of Christ, Scientist
+BOSTON - FCC/3,MA,chime,East tower, First Church of Christ, Scientist
+BROCKTON,MA,chime,Mt.Moriah Baptist Church (was First Parish Church, Unitarian)
+BROOKLINE - H,MA,chime,The United Parish in Brookline (ABC/UCC/UMC) (was Harvard Cong. Church)
+CAMBRIDGE - CC,MA,chime,Christ Church in Cambridge (Episcopal)
+CAMBRIDGE - HU,MA,zvon/great,Lowell House, Harvard University
+CLINTON,MA,chime,St.John the Evangelist RC Church
+COHASSET,MA,trad,The Cohasset Carillon (formerly known as the Bancroft Memorial Carillon or the Jesse M. Barron Memorial Carillon), St.Stephen's Episcopal Church
+DEDHAM,MA,chime,St.Paul's Episcopal Church
+EAST NORTHFIELD,MA,trad,*See MOUNT HERMON,MA,non-trad
+FAIRHAVEN,MA,chime,Memorial Unitarian Church (originally Rogers Memorial Church)
+FALL RIVER - HS,MA,trad,B.M.C. Durfee High School [new]
+GLOUCESTER,MA,trad,West Tower, Church of Our Lady of Good Voyage (RC)
+GROTON,MA,ring,St.John's Chapel, Groton School
+HAVERHILL,MA,chime,Trinity Episcopal Church
+HINGHAM,MA,ring/chime,Hingham Memorial Bell Tower
+HOLYOKE - HC,MA,chime,Holy Cross Catholic Church
+HOLYOKE - SH,MA,chime,Our Lady of Guadelupe Church (RC) (was Church of the Sacred Heart)
+HOPEDALE,MA,chime,Hopedale Unitarian Church
+HYANNIS,MA,non-trad,Christmas Tree Shops
+HYDE PARK,MA,chime,Church of the Most Precious Blood (RC)
+LAWRENCE,MA,chime,St.Mary of the Assumption RC Church
+LOWELL - STA,MA,chime,St.Anne's Episcopal Church
+LOWELL - STP,MA,chime,St.Patrick RC Church
+LYNN,MA,chime,St.Stephen's Memorial Episcopal Church
+MALDEN - 2,MA,chime,First Baptist Church of Malden (ABC)
+MEDFORD - G,MA,chime,Grace Episcopal Church
+MEDFORD - STJ,MA,chime,St.Joseph's RC Church
+MEDFORD - TU,MA,non-trad,Bowen-Tilton Memorial Carillon, Goddard Chapel, Tufts University
+MILTON,MA,chime,St.Agatha's RC Church
+MOUNT HERMON,MA,non-trad,McRoberts Memorial Carillon, The Rhodes Center for the Arts, Northfield Mount Hermon School
+NEW BEDFORD - G,MA,chime,Grace Episcopal Church
+NEW BEDFORD - STL,MA,chime,St.Lawrence Martyr RC Church
+NEWTON - G,MA,chime,The Eldridge Chime, Grace Episcopal Church
+NEWTON CENTER,MA,chime,"America" Tower, First Baptist Church in Newton (ABC)
+NORTH ADAMS - STF,MA,chime,St.Francis of Assisi Catholic Church
+NORTH ANDOVER,MA,non-trad,First-Calvary Baptist Church (ABC)
+NORTH ATTLEBORO,MA,chime,St.Mary of the Immaculate Conception RC Church
+NORTHAMPTON - 1,MA,trad,Dorothea Carlile Carillon, College Hall Tower, Smith College
+NORTHAMPTON - 2,MA,ring,Mendenhall Center for the Performing Arts, Smith College
+NORWOOD,MA,trad,Walter F. Tilton Memorial Carillon, Norwood Memorial Municipal Building (Soldiers Memorial, WW I)
+ORLEANS,MA,ring,Church of The Transfiguration, The Community of Jesus (Benedictine)
+PLYMOUTH,MA,chime,Christ Episcopal Church
+ROXBURY,MA,chime,Basilica of Our Lady of Perpetual Help (Roman Catholic Mission Church)
+SALEM,MA,chime,St.Peter's Episcopal Church
+SCITUATE,MA,chime,The Lawson Tower (originally Observatory Tower, Dreamwold, Egypt)
+SOMERVILLE,MA,chime,Mission Church of Christ (originally Unitarian Universalist)
+SPRINGFIELD -- CT,MA,chime,Clock Tower
+SPRINGFIELD - HPC,MA,trad,Hillcrest Park Cemetery
+SPRINGFIELD - TM,MA,trad,Trinity Singing Tower, Trinity United Methodist Church
+STOCKBRIDGE,MA,chime,Dudley Field Memorial Tower (also called "Children's Chime Tower")
+WALTHAM,MA,chime,Beth Eden Baptist Church (ABC)
+WATERTOWN - PIB,MA,ring,Perkins Institute for the Blind
+WATERTOWN - STJ,MA,chime,St.John's United Methodist Church
+WELLESLEY,MA,trad,Galen L. Stone Tower, Green Hall, Wellesley College
+WEST NEWTON,MA,chime,First Unitarian Church
+WESTBOROUGH,MA,chime,St.Luke the Evangelist Catholic Church
+WILLIAMSTOWN,MA,chime,Thompson Memorial Chapel (UCC), Williams College
+WINCHESTER - U,MA,chime,Unitarian Church of Winchester (First Unitarian Church)
+ALLENDALE,MI,trad,Cook Carillon; Cook Carillon Tower; Grand Valley State University
+ANN ARBOR - K,MI,chime,Kerrytown Chime; Kerrytown Shops
+ANN ARBOR - UM/1,MI,trad,Charles Baird Carillon; Marion Leroy Burton Memorial Tower; Main Campus; University of Michigan
+ANN ARBOR - UM/2,MI,trad,Ann & Robert H. Lurie Carillon; North Campus; University of Michigan
+BENTON HARBOR,MI,chime,First Congregational Church (UCC)
+BIRMINGHAM,MI,non-trad,St.James Episcopal Church
+BLOOMFIELD HILLS - BSL,MI,non-trad,Beautiful Savior Luth. Church (ELCA) (also "Saviour")
+BLOOMFIELD HILLS - CCC,MI,trad,The Wallace Carillon; Christ Church Cranbrook
+BLOOMFIELD HILLS - KH/1,MI,trad,The Tower of the Apostles; Kirk in the Hills (Presbyterian/PCUSA)
+BLOOMFIELD HILLS - KH/2,MI,chime,The Children's Bells of Blessing; Kirk in the Hills (Presbyterian/PCUSA)
+BLOOMFIELD HILLS - STH,MI,trad,St.Hugo of the Hills Catholic Church
+DETROIT - CC,MI,chime,Christ Church Detroit (Episcopal) (also called Old Christ Church)
+DETROIT - CPB,MI,chime,St.Peter Claver Catholic Community (was Church of the Precious Blood)
+DETROIT - HR,MI,chime,Holy Redeemer RC Church
+DETROIT - JAPC,MI,trad,Jefferson Avenue Presbyterian Church
+DETROIT - STAN,MI,chime,Basilica of Ste.Anne de Detroit
+DETROIT - STMR,MI,trad,St.Mary of Redford Catholic Church
+DETROIT - STPP,MI,chime,SS.Peter & Paul RC Church
+DETROIT - STS,MI,chime,St.Stephen's (Polish) Catholic School
+DETROIT - TE,MI,chime,Trinity Episcopal Church
+DETROIT - TL,MI,chime,Historic Trinity Lutheran Church (LCMS)
+EAST LANSING,MI,trad,Beaumont Tower; Michigan State University
+FLINT - FB,MI,chime,Woodside Church (ABC/UCC) (First Baptist Church of Flint)
+FLINT - FP,MI,chime,First Presbyterian Church (PCUSA)
+FLINT - GMI,MI,non-trad,Alumni Tower; Kettering University (formerly General Motors Institute)
+FRANKENMUTH,MI,non-trad,Glockenspiel Tower; Bavarian Inn
+GAYLORD,MI,non-trad,Glen's Markets; Alpine Village
+GRAND RAPIDS - GVSU,MI,trad,Beckering Family Carillon Tower; DeVos Center; Grand Valley State University
+GRAND RAPIDS - F,MI,chime,Fountain Street Church (non-denom.) (was Fountain Street Baptist Church)
+GRAND RAPIDS - STA,MI,chime,Cathedral of St.Andrew (RC)
+GROSSE POINTE FARMS - CC,MI,trad,Christ Church
+GROSSE POINTE FARMS - GPMC,MI,trad,Memorial Tower; The Grosse Pointe Memorial Church
+GROSSE POINTE FARMS - J,MI,chime,Joy Bells Park
+HOLLAND - DV,MI,non-trad,Bell Tower building; Nelis' Dutch Village
+KALAMAZOO - KC,MI,ring,Stetson Chapel; Kalamazoo College
+LAKE ORION,MI,non-trad,Olde World Canterbury Village
+LANSING - C,MI,trad,Christopher Hansen Memorial Carillon; Central United Methodist Church
+LAPEER,MI,chime,Immaculate Conception of the Blessed Virgin Mary Catholic Church
+MANISTEE,MI,chime,Guardian Angels RC Church
+MIDLAND - P,MI,chime,The Bertha E. R. Strosacker Memorial Presbyterian Church
+MIDLAND - S,MI,chime,Santa House
+ROCHESTER,MI,trad,Elliott Carillon Tower; Oakland University
+SAINT JOHNS,MI,chime,Redeemer Church - St.Johns Campus (was First United Methodist Church)
+SAULT SAINTE MARIE,MI,chime,St.James' Episcopal Church
+FARIBAULT,MN,chime,Bishop Whipple Memorial Chime; Bishop Whipple Memorial Tower; Cathedral of Our Merciful Saviour (Episcopal)
+MINNEAPOLIS - BS,MN,non-trad,Chapel of the Holy Spirit; Breck School
+MINNEAPOLIS - C,MN,chime,Minneapolis City Hall - Hennepin County Courthouse
+MINNEAPOLIS - CL,MN,trad,Central Lutheran Church (ELCA)
+MINNEAPOLIS - NHCC,MN,non-trad,North Hennepin Community College (formerly N. Hennepin Junior College)
+MINNEAPOLIS - STM,MN,non-trad,St.Mark's Episcopal Cathedral
+MINNEAPOLIS - STO,MN,chime,Church of St.Olaf (RC) (formerly Church of the Redeemer, Universalist)
+Minneapolis,MN,great,Westminster Presbyterian Church
+NEW ULM,MN,non-trad,Ted Schonlau Memorial Carillon; Schonlau Park Plaza
+ROCHESTER,MN,trad,The Rochester Carillon; Plummer Building; Mayo Clinic
+SAINT PAUL - HC,MN,chime,Holy Childhood RC Church
+SAINT PAUL - HHPC,MN,trad,Noyes Memorial Carillon; House of Hope Presbyterian Church (PCUSA)
+SAINT PAUL - STL,MN,non-trad,Church of St.Louis, King of France; "The Little French Church"
+STILLWATER,MN,chime,St.Michael's RC Church
+WINONA,MN,chime,Winona United Methodist Church (was Central United Methodist Church)
+JACKSON,MS,chime,St.Andrew's Episcopal Cathedral
+OXFORD,MS,non-trad,Peddle Bell Tower; Paris-Yates Chapel; The University of Mississippi
+VICKSBURG,MS,chime,St.Paul Catholic Church
+INDEPENDENCE,MO,chime,First Presbyterian Church
+KANSAS CITY - IB,MO,chime,Independence Boulevard Christian Church (Disciples of Christ)
+KANSAS CITY - IC,MO,chime,Cathedral of the Immaculate Conception (Roman Catholic)
+KANSAS CITY - V,MO,chime,Visitation of the Blessed Virgin RC Church
+RIVERSIDE,MO,coll,Red-X General Store
+SAINT LOUIS - CS,MO,trad,Luther Tower; Concordia Seminary
+SAINT LOUIS - PCC,MO,chime,Pilgrim Congregational Church (UCC)
+SAINT LOUIS - Z,MO,chime,Zion Lutheran Church (LCMS)
+SPRINGFIELD -- SMS,MO,trad,Jane A. Meyer Carillon; Duane G. Meyer Library; Southwest Missouri State University
+HELENA,MT,chime,St.Helena's RC Cathedral
+MISSOULA,MT,trad,Ellis Tower; Main Hall; University of Montana
+COLUMBUS,NE,chime,Columbus Quincentenary Belltower; Pawnee Park
+ELGIN,NE,coll,Bells of the Prairie
+GERING,NE,non-trad,Dwight Palmer Griswold Memorial
+HASTINGS - FM,NE,chime,First United Methodist Church
+HASTINGS - HC,NE,coll,(in storage); Hastings College
+KEARNEY,NE,non-trad,Kearney State College Mem'l Carillon Tower; Univ. of Nebraska at Kearney
+LINCOLN - FP/1,NE,trad,Carrie Isabelle Raymond Mem'l Carillon; First-Plymouth Congregational Church
+LINCOLN - FP/2,NE,non-trad,Chamber carillon (indoors); First-Plymouth Congregational Church
+LINCOLN - STP,NE,chime,McKinley Memorial Chime; St.Paul United Methodist Church
+OMAHA - T,NE,chime,Trinity Cathedral (Episcopal)
+OMAHA - UNO,NE,trad,Henningson Memorial Campanile; University of Nebraska at Omaha
+LAS VEGAS - SC,NV,non-trad,Smith Center for the Performing Arts
+RENO,NV,non-trad,Bonnie Jean Richardson Carillon; Trinity Episcopal Church
+ALSTEAD,NH,chime,Vilas Pool Recreational Area (former estate of Chas. N. Vilas)
+CONCORD - C,NH,chime,St.Paul's Episcopal Church
+CONCORD - S,NH,trad,Houghton Memorial Carillon; Chapel of St.Peter and St.Paul; St.Paul's School
+DOVER,NH,chime,St.John's United Methodist Church
+HANOVER,NH,chime,Baker Memorial Library; Dartmouth College
+MANCHESTER,NH,chime,Governor Frederick Smythe Chimes; Brookside Congregational Church (UCC) (was Franklin Street Cong. Church)
+MILFORD,NH,chime,First Congregational Church (UCC)
+NASHUA - FC,NH,chime,Mary Park Nutt Memorial Chime; The First Church, Congregational (UCC)
+NASHUA - STP,NH,chime,St.Patrick's Catholic Church
+PETERBOROUGH,NH,chime,All Saints Episcopal Church
+PORTSMOUTH,NH,chime,Christ Episcopal Church
+ATLANTIC CITY - FP,NJ,chime,First United Presbyterian Church
+BRIDGETON,NJ,chime,Iglesia la Luz del Mundo (was Central United Methodist Church)
+BURLINGTON,NJ,ring,St.Mary's Episcopal Church
+CAMDEN,NJ,chime,First Methodist Church
+DOVER,NJ,chime,First Memorial Presbyterian Church
+EAST ORANGE,NJ,chime,Our Lady Help of Christians Church
+ELIZABETH,NJ,chime,St.Patrick's Roman Catholic Church
+ENGLEWOOD,NJ,chime,St.Cecilia's RC Church
+GLOUCESTER CITY,NJ,chime,St.Mary's Catholic Church
+HARRISON,NJ,chime,Holy Cross Catholic Church
+Hoboken,NJ,great,(unknown)
+HOWELL,NJ,zvon,St.Alexander Nevsky Cathedral
+JERSEY CITY - STA,NJ,chime,St.Aedan's Catholic Church
+JERSEY CITY - STJ,NJ,chime,St.John the Baptist RC Church
+JERSEY CITY - STPT,NJ,chime,St.Patrick's Catholic Church
+LAKEWOOD,NJ,non-trad,Winkelmann's Restaurant
+MORRISTOWN,NJ,trad,St.Peter's Episcopal Church
+NEW BRUNSWICK - S,NJ,non-trad,Charavay Memorial Carillon; Chapel; New Brunswick Theological Seminary (Dutch Reformed)
+NEW BRUNSWICK - STP,NJ,chime,St.Peter the Apostle Catholic Church
+NEWARK - BSC,NJ,chimola,Blessed Sacrament Catholic Church
+NEWARK - CBSH,NJ,chime,Cathedral Basilica of the Sacred Heart
+NEWARK - SHC,NJ,chime,Sacred Heart RC Church (Vailsburg)
+NEWARK - STA,NJ,chime,St.Aloysius' Catholic Church
+NEWARK - STJO,NJ,chime,St.John's Catholic Church
+NEWARK - STM,NJ,chime,St.Michael's Catholic Church
+NEWARK - STP,NJ,chime,St.Patrick's Pro-Cathedral (RC)
+Newark,NJ,great,(unknown)
+OCEAN CITY - T,NJ,chime,Ocean City Tabernacle
+ORANGE - OV,NJ,chime,Love of Jesus Family Church (was Orange Valley Congregational Church, later Highland Avenue Cong.Church)
+ORANGE - STJ,NJ,chime,St.John the Evangelist Catholic Church
+PATERSON - STJ,NJ,chime,Cathedral of St.John the Baptist (RC)
+PATERSON - STMI,NJ,chime,St.Michael's Russian Orthodox Church (or Cathedral) (ROCOR)
+PERTH AMBOY,NJ,chime,Simpson United Methodist Church
+PLAINFIELD,NJ,trad,Pittis Carillon; Grace Episcopal Church
+PRINCETON - PU,NJ,trad,The Class of 1892 Bells; Grover Cleveland Tower; Graduate College; Princeton University
+PRINCETON - T,NJ,chime,Trinity Episcopal Church
+RED BANK,NJ,chime,St.James' Catholic Church
+RUMSON,NJ,trad,St.George's-by-the-River Episcopal Church
+TENAFLY,NJ,chime,Jno.S.Lyle Memorial Tower
+TRENTON,NJ,chime,St.Mary's Cathedral (RC) (St.Mary of the Assumption) (formerly St.Mary's Church)
+UPPER MONTCLAIR - PC,NJ,chime,The Presbyterian Church of Upper Montclair (PCUSA)
+UPPER MONTCLAIR - STJ,NJ,chime,St.James Episcopal Church
+VINELAND,NJ,chime,Trinity Episcopal Church
+WEST NEW YORK,NJ,chime,St.Joseph of the Palisades RC Church
+WILDWOOD,NJ,chime,Assumption of the Blessed Virgin Mary Catholic Church
+ALBANY,NY,IC,Immaculate Conception Cathedral (RC)
+ALBANY,NY,CH,City Hall
+ALBANY,NY,STJ,St. Joseph's RC Church
+ALBANY,NY,STP,St. Peter's Episcopal Church
+ALFRED,NY,trad,Davis Memorial Carillon, Alfred University
+AMSTERDAM,NY,chime,St. Mary's RC Church
+ASTORIA,NY,chime,Episcopal Church of the Redeemer
+AUBURN,NY,chime,Episcopal Church of SS. Peter & John
+AURORA,NY,chime,Main Hall, Wells College
+BINGHAMTON,NY,chime,Christ Episcopal Church
+BREWSTER,NY,ring,St. Cuthbert's Chapel, Melrose School (Episcopal)
+BRIARCLIFF MANOR,NY,,See SCARBOROUGH
+BRONX,NY,OLM,(unknown, elsewhere), was at Our Lady of Mercy School
+BRONX,NY,STPE,St. Peter's Episcopal Church
+BRONXVILLE,NY,BRC,The Reformed Church of Bronxville (Dutch Reformed Church)
+BRONXVILLE,NY,VLC,Wyman Memorial Carillon, Village Lutheran Church (LCMS)
+BROOKLYN,NY,BSC,Blessed Sacrament RC Church
+BROOKLYN,NY,OLGC,Our Lady of Good Counsel Church (RC)
+BROOKLYN,NY,RDC,Flatbush Reformed Church (originally Reformed Dutch Church)
+BROOKLYN,NY,STAE,Middle School Building (was St. Ann's Episcopal Church), Packer Collegiate Institute
+BROOKLYN,NY,STBA,St. Bartholomew's Episcopal Church
+BROOKLYN,NY,STBR,St. Brigid's Catholic Church
+BROOKLYN,NY,STMK,St. Mark's Evang. Lutheran Church (LCMS)
+BROOKLYN,NY,STMY,St. Mary Star of the Sea Catholic Church
+BROOKLYN,NY,STP,St. Peter's Evangelical Lutheran Church (ELCA; was once called 1st Ger. Ev. Luth. St. Peter's Church)
+BROOKLYN,NY,STTE,St. Teresa of Avila Catholic Church
+BROOKLYN,NY,STTH,St. Thomas' Episcopal Church
+BUFFALO,NY,A,Assumption of the BVM Catholic Church (was Assumption Polish Cath. Church)
+BUFFALO,NY,FL,Forest Lawn Cemetery
+BUFFALO,NY,,St. Mary's Catholic Church
+BUFFALO,NY,STM,St. Michael's Catholic Church
+BUFFALO,NY,STP,St. Paul's Episcopal Cathedral (originally St. Paul's Episcopal Church)
+CAMBRIDGE,NY,chime,New Skete Monastery (Eastern Orthodox)
+CANAJOHARIE,NY,chime,Canajoharie United Methodist Church (originally First Methodist Church)
+CANTON,NY,chime,Bacheller Memorial Chimes, Gunnison Memorial Chapel, St. Lawrence University
+CHAPPAQUA,NY,chime,Episcopal Church of St. Mary the Virgin
+CHAUTAUQUA,NY,chime,Miller Bell Tower, Chautauqua Institution
+CLIFTON,NY,,St. John PE Church, See STATEN ISLAND
+COHOES,NY,STA,St. Agnes RC Church
+DIAMOND POINT,NY,chime,Diamond Point Community Church
+ENDICOTT,NY,chime,First United Methodist Church
+GARDEN CITY,NY,chime,Episcopal Cathedral of the Incarnation
+GENEVA,NY,chime,St. Peter's Memorial Episcopal Church
+GLOVERSVILLE,NY,FC,First Congregational Church (UCC)
+GLOVERSVILLE,NY,OLMC,Church of the Holy Spirit (RC) (was Our Lady of Mt. Carmel Church)
+GREAT NECK,NY,chime,All Saints' Episcopal Church
+HAVERSTRAW,NY,chime,St. Peter's Catholic Church
+HONEOYE FALLS,NY,chime,St. John's Episcopal Church
+HOOSICK FALLS,NY,chime,St. Mark's Episcopal Church
+ITHACA,NY,chime,The Cornell Chimes, McGraw Tower, Uris Library (formerly Main Library), Cornell University
+JAMESTOWN,NY,chime,St. Luke's Episcopal Church
+JOHNSON CITY,NY,chime,St. James' Catholic Church
+JOHNSTOWN,NY,chime,1st Presbyterian Church (PCUSA)
+JORDANVILLE,NY,1,zvon,Church, Holy Trinity Russian Orthodox Monastery (ROCOR)
+JORDANVILLE,NY,2,zvon/great,Gatehouse, Holy Trinity Russian Orthodox Monastery (ROCOR)
+KINGSTON,NY,chime,Evangelical Lutheran Church of the Redeemer (ELCA)
+LARCHMONT,NY,KKH,chime,King-Kerr House
+LARCHMONT,NY,STJ,chime,St. John's Episcopal Church
+LITTLE FALLS,NY,chime,Holy Family Parish (formerly St. Mary RC Church)
+MALONE,NY,chime,Howard Memorial Chimes, First Congregational Church (UCC)
+MAMARONECK,NY,chime,St. Thomas Episcopal Church
+MIDDLETOWN,NY,chime,St. Joseph's Catholic Church
+NANUET,NY,zvon,Novo-Diveevo Russian Orthodox Convent
+NEW YORK,NY,A,chime,Episcopal Church of the Ascension
+NEW YORK,NY,CP,non-trad,Central Presbyterian Church
+NEW YORK,NY,G,chime,Grace Episcopal Church
+NEW YORK,NY,HR,chime,Most Holy Redeemer Catholic Church
+NEW YORK,NY,HTC,chime,The Church of the Holy Trinity (Episc.)
+NEW YORK,NY,IC,chime,Immaculate Conception RC Church (formerly Grace Chapel, Episcopal)
+NEW YORK,NY,RC,trad,Laura Spelman Rockefeller Memorial Carillon, Riverside Church (interdenominational: ABC/UCC)
+NEW YORK,NY,STAL,chime,St. Aloysius Church
+NEW YORK,NY,STAN,chime,The Seguin Chimes, St. Andrew's Episcopal Church
+NEW YORK,NY,STM,trad,St. Martin's Episcopal Church
+NEW YORK,NY,STMI,chime,St. Michael's Episcopal Church
+NEW YORK,NY,STPA,chime,St. Patrick's Cathedral (RC)
+NEW YORK,NY,STT,trad,St. Thomas Church (Episcopal)
+NEW YORK,NY,TC/1,ring/chime,Trinity Parish Church (Episcopal)
+NEW YORK,NY,TC/2,ring,Trinity Parish Church (Episcopal)
+NEW YORK,NY,,great,City Hall
+NIAGARA FALLS,NY,Z,chime,Zion Lutheran Church (ELCA)
+NYACK,NY,zvon,Holy Virgin Protection Church (Russian Orthodox - ROCOR)
+OWEGO,NY,chime,St. Paul's Episcopal Church
+PLATTSBURGH,NY,STJ,chime,St. John the Baptist RC Church
+PORT JERVIS,NY,chime,The Memorial Chimes, Deerpark Reformed Church (RCA)
+RIDGEWOOD,NY,chime,St. Aloysius Catholic Church
+ROCHESTER,NY,A,ring,Church of the Ascension (Episcopal)
+ROCHESTER,NY,CRDS,chime,Colgate Rochester Crozer Divinity School (Baptist)
+ROCHESTER,NY,STMI,chime,St. Michael's Catholic Church
+ROCHESTER,NY,STP,chime,SS. Peter & Paul Catholic Church
+ROCHESTER,NY,TP,chime,Third Presbyterian Church (PCUSA)
+ROCHESTER,NY,UR,trad,Hopeman Memorial Carillon, Rush Rhees Library, River Campus, University of Rochester
+ROME,NY,FB,chime,1st Baptist Church (ABC)
+SACKETS HARBOR,NY,chime,The Dewitt C. Hay Memorial Tower, United Presbyterian Church
+SCARBOROUGH,NY,chime,St. Mary's Episcopal Church
+SCHENECTADY,NY,UC,chimola,Memorial Chapel Cupola, Union College
+STATEN ISLAND,NY,STJ,chime,St. John's Episcopal Church
+STATEN ISLAND,NY,STP,chime,St. Peter's Catholic Church
+SYRACUSE,NY,SU,chime,Crouse College Chime, Crouse College, Syracuse University
+TROY,NY,A,chime,Mount Ida Preservation Hall (was Episcopal Church of the Ascension)
+TROY,NY,STJOH,chime,St. John's Episcopal Church
+TROY,NY,STJOS,chime,St. Joseph Catholic Church
+TROY,NY,STPA,chime,St. Patrick's Catholic Church
+TROY,NY,STPE,chime,St. Peter's Catholic Church
+TROY,NY,W,chime,Contemporary Artists Center (was Woodside Presbyterian Church)
+UTICA,NY,G,chime,Grace Episcopal Church
+UTICA,NY,STJ,chime,St. John's RC Church
+UTICA,NY,STP,chime,St. Joseph & St. Patrick RC Church
+WAPPINGERS FALLS,NY,chime,Zion Episcopal Church
+WATERFORD,NY,chime,The Kavanaugh Chime, Grace Episcopal Church
+WATERTOWN,NY,,chime,Trinity Episcopal Church
+WATERVLIET,NY,chimola,Watervliet Historical Society, relocated from Bangor PA in 2006, then from Fulton County NY in 2013
+WATERVILLE,NY,chime,Sanger Lodge Masonic Temple
+WEST POINT,NY,chime,The Cadet Chapel, United States Military Academy
+WILLIAMSVILLE,NY,trad,The Niederlander Carillon, Calvary Episcopal Church
+YONKERS,NY,IC,chime,Immaculate Conception (St. Mary's) Catholic Church
+YONKERS,NY,STA,chime,St. Andrew's Memorial Episcopal Church / Iglesia San Andres
+YONKERS,NY,STP,non-trad,Faith Church (was St. Paul's Episcopal Church)
+ANGIER,NC,coll,Coats Museum Bell Tower & House
+BELMONT - FPC,NC,trad,William James Pharr Carillon, First Presbyterian Church (PCUSA)
+BELMONT - HC,NC,non-trad,Lineberger Memorial Carillon, Lutheran Church of the Holy Comforter (ELCA)
+BOILING SPRINGS,NC,non-trad,Lake Hollifield Carillon, Gardner-Webb University
+BUIES CREEK,NC,non-trad,Dinah E. Gore Bell Tower, Butler Chapel, Campbell University
+CHAPEL HILL,NC,chime,Morehead-Patterson Bell Tower, University of North Carolina
+CHARLOTTE - CM,NC,chime,Grace Covenant Church (was Chalmers Mem'l Assoc.Ref.Presby.)
+CHARLOTTE - CPC,NC,trad,Covenant Presbyterian Church (PCUSA)
+CHARLOTTE - MPP,NC,trad,Myers Park Presbyterian Church (PCUSA)
+CHARLOTTE - MPUM,NC,non-trad,Myers Park United Methodist Church
+Charlotte,NC,great,The American Freedom Bell
+Charlotte - FMBC,NC,great,Friendship Missionary Baptist Church
+CHERRYVILLE,NC,non-trad,Beam, Pratt & Brawley Memorial Carillon, First United Methodist Church
+CONCORD - STJ,NC,non-trad,Blanche Brown Coltrane Memorial Carillon, Evangelical Lutheran Church of St.James
+DURHAM - DU,NC,trad,Chapel, West Campus, Duke University
+DURHAM - MMC,NC,chime,Duke Memorial United Methodist Church
+FAYETTEVILLE - FP,NC,chime,Ray Memorial Chimes, First Presbyterian Church (PCUSA)
+FAYETTEVILLE - SM,NC,chime,Snyder Memorial Baptist Church
+GASTONIA - FPC,NC,trad,The Memorial Carillon, First Presbyterian Church (PCUSA)
+GASTONIA - FUMC,NC,non-trad,First United Methodist Church
+GREENSBORO - LG,NC,chime,Our Lady of Grace Catholic Church
+GREENSBORO - U,NC,non-trad,Nicholas A. Vacc Bell Tower, University of North Carolina at Greensboro (UNCB)
+HENDERSON,NC,chime,First Baptist Church
+HENDERSONVILLE,NC,ring,Patton Memorial Tower, St.James' Church (Episcopal)
+HIGH POINT,NC,chime,Wesley Memorial United Methodist Church
+KINSTON,NC,chime,First Presbyterian Church (PCUSA)
+LAURINBURG - STA,NC,chime,Katherine McKay Belk Bell Tower, St.Andrews Presbyterian College
+MCADENVILLE,NC,chime,City of McAdenville
+MORGANTON,NC,non-trad,First Baptist Church (SBC)
+NEW BERN,NC,non-trad,Christ Episcopal Church
+RALEIGH - C,NC,ring,Christ Episcopal Church
+RALEIGH - HNJ,NC,trad,Holy Name of Jesus Cathedral (RC)
+RALEIGH - NCS,NC,trad,Memorial Tower, North Carolina State University
+SHELBY,NC,chime,First Baptist Church
+WILMINGTON -- FA,NC,chime,Fifth Avenue United Methodist Church
+WILMINGTON -- FP,NC,non-trad,First Presbyterian Church (PCUSA)
+WINSTON-SALEM - WF,NC,trad,Janet Jeffrey Carlile Harris Carillon, Wait Chapel, Wake Forest University
+AKRON,OH,chime,North Clock Tower, Goodyear Tire & Rubber Company
+ALLIANCE,OH,chime,Christ United Methodist Church (formerly First Methodist Church)
+BOARDMAN,OH,non-trad,Boardman United Methodist Church
+BRYAN,OH,non-trad,Markey Memorial Carillon, Wesley United Methodist Church
+BUCYRUS,OH,chime,The John Q. Shunk Memorial, Aumiller Park
+CANTON - P,OH,chime,Garden Center Park
+CINCINNATI - CC,OH,chime,Christ Church Cathedral
+CINCINNATI - GH,OH,non-trad,Gate of Heaven Cemetery
+CINCINNATI - OTR,OH,chime,Over-the-Rhine Bell Tower
+CINCINNATI - SP,OH,non-trad,Crusader Carillon, Sawyer Point Riverfront Park
+CINCINNATI - STG,OH,chime,St.Gregory Street Project
+CINCINNATI - STJ,OH,non-trad,St.John's United Church of Christ
+CINCINNATI - STM,OH,chime,Old St.Mary's Catholic Church
+CINCINNATI - STPC,OH,chime,St.Peter in Chains Cathedral (RC)
+CINCINNATI - STT,OH,chime,St.Teresa of Avila RC Church
+CINCINNATI - W,OH,chime,Westwood United Methodist Church
+Cincinnati,OH,great,St.Francis de Sales Catholic Church
+CIRCLEVILLE,OH,chime,William Foresman Chime, Pickaway County Courthouse
+CLEVELAND - CC,OH,trad,The McGaffin Carillon (Alexander McGaffin Memorial), The Church of the Covenant (Presbyterian/PCUSA)
+CLEVELAND - IC,OH,chime,Immaculate Conception Church (RC)
+CLEVELAND - SH,OH,chime,The Cleveland Orchestra, Severance Hall
+CLEVELAND - STP,OH,chime,St.Patrick's RC Church (Bridge Avenue)
+CLEVELAND HEIGHTS - CS,OH,trad,Arter Memorial Carillon, Church of the Saviour
+CLEVELAND HEIGHTS - STA,OH,chime,St.Ann's Catholic Church
+CLEVELAND HEIGHTS - STP,OH,trad,Harry A. & Mariah H. Seabrook and Thomas Family Memorial Carillon, St.Paul's Episcopal Church
+COLUMBUS - KA,OH,chime,King Avenue United Methodist Church
+COLUMBUS - OSU,OH,chime,Orton Hall, Ohio State University
+COLUMBUS - TC,OH,chime,Trinity Chime, All Saints' Tower, Trinity Church (Episcopal)
+DAYTON - BW/mobile,OH,chime,The Bell Wagon, Carillon Historical Park
+DAYTON - D,OH,trad,Deeds Carillon, Deeds Memorial Tower, Carillon Historical Park
+DAYTON - F,OH,chime,First [English] Lutheran Church (ELCA)
+DELAWARE - OW,OH,chime,Stuyvesant Hall, Ohio Wesleyan University
+DELAWARE - STM,OH,chime,St.Mary's Church (RC)
+GAMBIER,OH,chime,Church of the Holy Spirit (College Chapel), Kenyon College
+GATES MILLS,OH,trad,Church of St.Christopher-by-the-River
+GLENDALE - CC,OH,chime,Christ Church - Glendale (Episcopal)
+GLENDALE - CT,OH,trad,Chapel Tower, Convent of the Transfiguration
+GRANVILLE,OH,chime,Swasey Chapel, Denison University
+LANCASTER - 2,OH,chime,First United Methodist Church
+MAPLE HEIGHTS,OH,non-trad,Lutheran Church of the Covenant (ELCA)
+MARIEMONT,OH,trad,Mary M. Emery Memorial Carillon, Thomas J. Emery Memorial Carillon Tower, Dogwood Park
+MARIETTA,OH,chime,North tower, First Congregational Church (UCC)
+MARYSVILLE,OH,chime,Arthur Chimes, First United Methodist Church
+MIDDLETOWN - A,OH,trad,The Sidney Case McCammon Memorial Carillon, Episcopal Church of the Ascension
+MIDDLETOWN - C,OH,non-trad,Casper Memorial Carillon, Donham Plaza (City Centre Plaza), City Building
+MONTGOMERY,OH,chime,Heritage District
+NEWARK - S,OH,trad,Flory Memorial Carillon, Second Presbyterian Church (PCUSA)
+NORWALK,OH,chime,St.Paul's RC Church
+OXFORD - 1,OH,chime,Molyneaux-Western Bell Tower, Miami University
+OXFORD - 2,OH,non-trad,The Verlin L. Pulley Carillon, Pulley Bell Tower, Miami University
+PORTSMOUTH,OH,chime,Holy Redeemer Catholic Church
+RIO GRANDE,OH,non-trad,Alumni Carillon, Alumni Memorial Bell Tower, Rio Grande University
+TIFFIN - F,OH,chime,First English Lutheran Church (ELCA)
+TOLEDO - STJ,OH,chime,St.Joseph's French Church
+TOLEDO - T,OH,chime,The Gardner Chime, Trinity Episcopal Church
+VAN WERT,OH,chime,St.Mark's Lutheran Church (ELCA)
+WAPAKONETA,OH,non-trad,St.Mark's Evang. Lutheran Church (ELCA)
+WILLARD,OH,chime,Willard Christian Reformed Church
+WILMINGTON --,OH,trad,Simon Goodman Memorial Carillon, Collett Mall, Wilmington College
+YOUNGSTOWN,OH,,See BOARDMAN : USA - OH
+ARDMORE,OK,chime,First Presbyterian Church (PCUSA)
+Edmond,OK,great,St.Luke's United Methodist Church Edmund
+OKLAHOMA CITY - FUMC,OK,chime,First United Methodist Church of Oklahoma City
+OKLAHOMA CITY - PS,OK,chime,Penn Square Mall
+OKLAHOMA CITY - STE,OK,non-trad,Chapel of St.Edward the Confessor, Casady School
+OKLAHOMA CITY - STL,OK,trad,V. V. Harris Memorial Carillon, St.Luke's United Methodist Church
+OKLAHOMA CITY - WPC,OK,trad,Westminster Carillon, Westminster Presbyterian Church (PCUSA)
+TULSA - FP/2,OK,non-trad,First Presbyterian Church
+CORVALLIS,OR,non-trad,Bell Tower, Oregon State University
+PORTLAND - T,OR,chime,Trinity Episcopal Cathedral (formerly Trinity Church)
+PORTLAND - U,OR,chime,Marian Garden, University of Portland
+SAINT BENEDICT,OR,chime,Mount Angel Abbey
+ALLENTOWN,PA,chime,St.John's United Church of Christ (UCC) (was St.John's Reformed Church)
+ARDMORE,PA,chime,St.George's Episcopal Church (The Nevil Memorial Church of St.George)
+BALA-CYNWYD - CC,PA,chime,Podowon Presbyterian Church (PCUSA) (was Presby. Church of the Covenant)
+BALA-CYNWYD - STM,PA,chime,St.Matthias Catholic Church
+BANGOR,PA,,*See WATERVLIET
+BEAVER,PA,chime,First Baptist Church of Midland/Beaver (was Trinity Episcopal Church (ACNA)) originally in Rochester, PA
+BEAVER FALLS,PA,chime,McCartney Library, Geneva College
+BETHLEHEM - N,PA,chime,Sallie P. Wlibur Memorial Cathedral Church of the Nativity (Episcopal)
+BRYN MAWR - P,PA,trad,Middleton Family Carillon, Bryn Mawr Presbyterian Church
+BRYN MAWR - R,PA,chime,Catherwood Memorial Bells, Church of the Redeemer (Episcopal)
+CAMP HILL,PA,chime,Shopping Center
+CARLISLE,PA,chime,First United Church of Christ (UCC) (was First Reformed Church)
+CATASAUQUA - F,PA,chime,Edwin Thomas Memorial Chimes, Catasauqua Presbyterian Church (PCUSA) (was First Presbyterian Church)
+CHAMBERSBURG,PA,chime,First United Methodist Church (was First Ev.United Brethren Church)
+CHESTER,PA,chime,St.Paul's Episcopal Church
+COLUMBIA,PA,chime,St.John's Evang. Lutheran Church (ELCA)
+DREXEL HILL,PA,chime,Collenbrook United Church (was Northminster Presby. Church, Federated) originally in Philadelphia
+EASTON,PA,chime,First United Church of Christ (formerly 1st Reformed Church) (originally German Reformed Church)
+ELIZABETHTOWN,PA,chime,John S. Sell Memorial Chapel, Masonic Village at Elizabethtown
+EMMAUS,PA,chime,St.John's United Church of Christ (UCC) (was St.John's Reformed Church)
+ERIE - PS,PA,trad,Floyd and Juanita Smith Carillon, Larry and Kathryn Smith Chapel, Penn State Erie, The Behrend College
+ERIE - SPE,PA,chime,St.Peter Cathedral (RC)
+FORT WASHINGTON,PA,trad,Catherine Colt Dickey Memorial Carillon, St.Thomas' Church
+GETTYSBURG - GC,PA,non-trad,Gettysburg College
+GETTYSBURG - STJ,PA,chime,St.James Lutheran Church (ELCA)
+GLEN MILLS,PA,chime,Glen Mills Schools Library (formerly Smith Memorial Chapel; originally House of Refuge Chapel)
+GWYNEDD,PA,chime,Episcopal Church of the Messiah
+HARRISBURG - Z,PA,chime,Zion Lutheran Church (ELCA)
+HOLLAND,PA,trad,Henry D. Schneider Memorial Carillon, Trinity Reformed Church (UCC)
+HUNTINGDON,PA,chime,First United Methodist Church
+JIM THORPE,PA,chime,Episcopal Parish of St.Mark & St.John (formerly St.Mark's Church)
+JOHNSTOWN,PA,chime,First Lutheran Church (ELCA)
+KENNETT SQUARE,PA,trad,Longwood Gardens
+LANCASTER - G,PA,chime,Grace Lutheran Church (ELCA)
+LANCASTER - T,PA,chime,The Evangelical Lutheran Church of The Holy Trinity (ELCA)
+LEBANON - CC,PA,chime,Christ Church (Presbyterian/PCUSA)
+LEBANON - STL,PA,chime,St.Luke's Church (Episcopal)
+LEECHBURG,PA,non-trad,First Evangelical Lutheran Church
+LEHIGHTON - F,PA,non-trad,Our Father's Divine Work
+LEHIGHTON - Z,PA,chime,Zion United Church of Christ (UCC) (was Zion Reformed Church)
+LOCK HAVEN - U,PA,non-trad,Fredericks Family Memorial Carillon, Lock Haven University of Pennsylvania
+MAUCH CHUNK,PA,,*See JIM THORPE
+MERCERSBURG,PA,trad,The Henry Bucher Swoope Carillon, Barker Tower, Chapel, Mercersburg Academy
+MONONGAHELA,PA,chime,First United Methodist Church
+NEW WILMINGTON,PA,trad,Duff-Armington Memorial Carillon, Old Main Building, Westminster College
+OIL CITY,PA,chime,Christ Church (Episcopal)
+PAOLI,PA,chime,Episcopal Church of the Good Samaritan
+PHILADELPHIA - CC,PA,ring/chime,Christ Church (Episcopal)
+PHILADELPHIA - CS,PA,chime,Philadelphia Episcopal Cathedral (was Church of the Saviour)
+PHILADELPHIA - CSTM,PA,chime,Christ Church & St.Michael's (Episcopal)
+PHILADELPHIA - FM,PA,trad,Shelmerdine Memorial Carillon, First United Methodist Church of Germantown
+PHILADELPHIA - HT,PA,trad,Holy Trinity Church (Episcopal)
+PHILADELPHIA - LHG,PA,non-trad,Harrison Bell Tower, The Lutheran Home of Germantown (ELCA)
+PHILADELPHIA - STCB,PA,chime,Church of St.Charles Borromeo (RC)
+PHILADELPHIA - STF,PA,chime,St.Francis de Sales Catholic Church
+PHILADELPHIA - STJL/1,PA,chime,Wanamaker Mausoleum, Church of St.James-the-Less (Episcopal)
+PHILADELPHIA - STL,PA,chime,St.Luke's Episcopal Church
+PHILADELPHIA - STMKF,PA,chime,St.Mark's Episcopal Church (Frankford)
+PHILADELPHIA - STMKL,PA,ring,St.Mark's Episcopal Church
+PHILADELPHIA - STMTF/1,PA,chime,Upper belfry, The Episcopal Church of St.Martin-in-the-Fields
+PHILADELPHIA - STMTF/2,PA,ring,Lower belfry, The Episcopal Church of St.Martin-in-the-Fields
+PHILADELPHIA - STMY,PA,chime,St.Mary's-at-the-Cathedral Episcopal Church
+PHILADELPHIA - STP,PA,ring/chime,St.Peter's Episcopal Church
+PHILADELPHIA - STT,PA,chime,St.Timothy's Episcopal Church
+PHILADELPHIA - STV,PA,trad,Miraculous Medal Shrine (RC) (formerly St.Vincent's Seminary)
+PHILADELPHIA - W,PA,chime,Wynnefield Presbyterian Church (PCUSA)
+PHILADELPHIA - 39B,PA,chime,"39 Bells", Public soundscape (bells on lampposts)
+Philadelphia,PA,great,PNB-First Union Bank Building (formerly John Wanamaker's Department Store)
+Philadelphia,PA,great,Independence Hall
+Philadelphia,PA,great,Bicentennial Bell, Independence Park Visitor's Center Tower
+PHILADELPHIA,PA,,*See also DREXEL HILL
+PITTSBURGH - CC,PA,chime,Calvary Episcopal Church
+PITTSBURGH - E,PA,chime,First Presbyterian Church of Edgewood (was Edgewood Presbyterian Church)
+PITTSBURGH - FB,PA,chimola,First Baptist Church of Pittsburgh (ABC)
+PITTSBURGH - SPC,PA,ring,Southminster Presbyterian Church
+PITTSBURGH - STS,PA,peal,St.Stanislaus Kostka Catholic Church
+PITTSBURGH - T,PA,chime,Trinity Episcopal Cathedral
+POTTSTOWN - 1/mobile,PA,trad,CariBelle
+POTTSTOWN - 2/mobile,PA,trad,The DellaPenna Family Carillon
+POTTSVILLE,PA,chime,Trinity Episcopal Church
+READING - CC,PA,chime,Christ Episcopal Church
+READING - SLC,PA,trad,Bells of Joy, Schwarzwald Lutheran Church (ELCA)
+READING - STP,PA,chime,St.Paul's Catholic Church
+READING - TL,PA,chime,Trinity Lutheran Church (ELCA)
+READING - W,PA,chime,Wesley United Methodist Church (was Windsor Street Methodist Church)
+ROSEMONT,PA,chime,Memorial Church of the Good Shepherd (Episcopal)
+SAYRE,PA,chime,Church of the Redeemer (Episcopal)
+SCOTTDALE,PA,chime,First Regular Baptist Church (ABC)
+SCRANTON - EP,PA,chime,Elm Park United Methodist Church (formerly First Methodist Church)
+SEWICKLEY,PA,chime,St.Stephen's Episcopal Church (ACNA)
+SHARON,PA,trad,Henry B. Forker, III and Harry B. McDowell, Jr. Memorial Carillon, St.John's Episcopal Church
+SHENANDOAH,PA,,*See HOUSTON - STJV
+TAMAQUA,PA,chime,Trinity United Church of Christ
+UNIONTOWN,PA,chime,Penn State Fayette, The Eberly Campus
+VALLEY FORGE,PA,trad,Washington Memorial National Carillon, National Patriots Bell Tower, Washington Memorial Chapel (Episcopal), Valley Forge National Historical Park
+WARREN - FM,PA,chime,First United Methodist Church
+WARREN - P,PA,chime,Beech Street Bells, Park
+WAYMART,PA,zvon,Millenium Belltower, The Monastery of St.Tikhon of Zadonsk (Orthodox)
+WAYNE,PA,chime,St.Mary's Episcopal Church
+WHITEMARSH,PA,,*See FORT WASHINGTON
+WILKINSBURG - STJ,PA,chime,St.James Catholic Church
+WILLIAMSPORT - STM,PA,chime,St.Mark's Lutheran Church (ELCA)
+WILLIAMSPORT - T,PA,chime,The Maynard Chime, Trinity Episcopal Church
+YORK,PA,chime,Trinity Church (UCC) (formerly Trinity Reformed Church)
+BRISTOL,RI,chime,St.Michael's Church (Episcopal)
+CENTRAL FALLS,RI,chime,St.George's Episcopal Church
+EAST GREENWICH,RI,chime,St.Luke's Episcopal Church
+EDGEWOOD,RI,chime,Episcopal Church of the Transfiguration originally in Davenport, IA
+NEWPORT - CM,RI,chime,Channing Memorial Church (UU)
+NEWPORT - T,RI,chime,Trinity Episcopal Church
+PAWTUCKET - STP,RI,chime,St.Paul's Episcopal Church
+PROVIDENCE - G,RI,chime,Grace Church in Providence (Episcopal)
+PROVIDENCE - STMAT,RI,chime,St.Martin's Episcopal Church
+PROVIDENCE - STMAY,RI,chime,St.Mary's Catholic Church
+PROVIDENCE - STMI,RI,chime,St.Michael the Archangel RC Church
+WESTERLY,RI,chime,Christ Episcopal Church
+AIKEN, SC, trad, St.Thaddeus Episcopal Church
+CHARLESTON - C, SC, trad, The Thomas Dry Howie Carillon; The Citadel (Military College)
+CHARLESTON - G, SC, ring, Columbarium tower; Grace Episcopal Church
+CHARLESTON - LP, SC, ring, Cathedral Church of St.Luke & St.Paul (Episcopal)
+CHARLESTON - STC, SC, non-trad, St.Clare of Assisi Catholic Church
+CHARLESTON - STJ, SC, chime, St.John's Lutheran Church (ELCA)
+CHARLESTON - STMA, SC, chime, St.Matthew's Evangelical Lutheran Church (ELCA)
+CHARLESTON - STMI, SC, ring, St.Michael's Episcopal Church
+CLEMSON - CU, SC, trad, Tillman Hall; Clemson University
+CLEMSON - HT, SC, chime, Holy Trinity Episcopal Church
+CLINTON, SC, non-trad, Bailey Memorial Carillon; Bailey Memorial Bell Tower; First Presbyterian Church (PCUSA)
+COLUMBIA - SM, SC, chime, Shandon United Methodist Church
+COLUMBIA - STJ, SC, non-trad, St.Joseph's Catholic Church
+CONWAY, SC, non-trad, Graham Bell Tower; Coastal Carolina University
+DANIEL ISLAND, SC, , *See CHARLESTON - STC
+GREENVILLE - FU/2, SC, non-trad, The Burnside Carillon; Furman University [new campus]
+GREENVILLE - R, SC, non-trad, Terrace at Riverplace
+GREENVILLE - WPC, SC, non-trad, Niven Memorial Carillon; Niven Memorial Tower; Westminster Presbyterian Church (PCUSA)
+GREENWOOD - CSMBC, SC, trad, Callie Self Memorial Baptist Church (SBC)
+GREENWOOD - FBC, SC, non-trad, First Baptist Church (CBF)
+GREENWOOD - GBLC, SC, chime, GBLC Building (was Greenwood Building and Loan Co.)
+GREENWOOD - LC, SC, non-trad, Laura Lander Hall; Lander University (formerly Lander College)
+SENECA, SC, chime, Trinity Baptist Church
+SPARTANBURG - A, SC, chime, Episcopal Church of the Advent
+SPARTANBURG - FP, SC, non-trad, First Presbyterian Church (PCUSA)
+SULLIVAN'S ISLAND, SC, ring, Stella Maris RC Church
+BROOKINGS - FL, SD, chime, First Lutheran Church
+City, State, Type, Description
+ABILENE - CHR, TX, non-trad/ring, All Saints' Tower; Church of the Heavenly Rest (Episcopal)
+ABILENE - MMC, TX, trad, Radford Auditorium; McMurry University
+AMARILLO - FB, TX, chime, First Baptist Church (SBC)
+AUSTIN - GS, TX, non-trad, Episcopal Church of the Good Shepherd
+AUSTIN - UT/1, TX, chime, The Burleson Bells; Bass Concert Hall Plaza; The University of Texas
+AUSTIN - UT/2, TX, trad, Kniker Carillon; Main Building; The University of Texas
+COLLEGE STATION, TX, non-trad, Albritton Tower Carillon; Texas A & M University
+CORPUS CHRISTI - CGS, TX, trad, Memorial Carillon; Church of the Good Shepherd
+CORPUS CHRISTI - FBC, TX, trad, Glasscock Memorial Carillon; First Baptist Church (SBC)
+DALLAS - CG, TX, trad, Cathedral Santuario de Guadalupe (RC) (Shrine of Our Lady of Guadalupe) (orig. Cathedral of the Sacred Heart)
+DALLAS - CI, TX, non-trad, Church of the Incarnation
+DALLAS - CT, TX, chime, Church of the Transfiguration (Episcopal)
+DALLAS - HP, TX, trad, Porter Memorial Carillon; Highland Park United Methodist Church
+DALLAS - PCB, TX, non-trad, Park Cities Baptist Church (SBC)
+DALLAS - SMA, TX, chime, Church of St.Michael and All Angels (Episcopal)
+DALLAS - SMK, TX, trad, Roosevelt Family Carillon; St.Mark's School of Texas
+DALLAS - SMU, TX, non-trad, Fondren Science Building; Southern Methodist University
+Dallas - STJ, TX, ring, St.James Episcopal Church
+Dallas, TX, great, Harlan Crow Campanile
+FORT WORTH - STJ, TX, chime, St.John's Episcopal Church (ACNA)
+FORT WORTH - TS, TX, chime, Harrison Chimes; First Presbyterian Church (PCUSA) (including Taylor Street Presb. Church)
+GALVESTON, TX, chime, John Sealy Memorial Chime; Trinity Episcopal Church
+HEREFORD, TX, chime, St.Anthony's RC Church
+HOUSTON - HV, TX, trad, Bell Tower Center Carillon; Hillside Village (shopping center)
+HOUSTON - PM/1, TX, chime, Upper belfry; Palmer Memorial Episcopal Church
+HOUSTON - PM/2, TX, ring, Lower belfry; Palmer Memorial Episcopal Church
+HOUSTON - SH, TX, non-trad, Campanile; Co-Cathedral of the Sacred Heart
+HOUSTON - STJ, TX, trad, Cora Allison Leavens Memorial Carillon; St.John the Divine Episcopal Church
+HOUSTON - STJV, TX, chime, St.John Vianney Catholic Church
+HOUSTON - STM, TX, non-trad, Chapel Tower; St.Mary's Seminary (RC)
+HOUSTON - STP/1, TX, chime, Martin Milford Jones Memorial; Upper belfry; St.Paul's United Methodist Church
+HOUSTON - STP/2, TX, ring, Lower belfry; St.Paul's United Methodist Church
+HOUSTON - STT, TX, ring, St.Thomas Episcopal Church
+HOUSTON - STV, TX, chime, St.Vincent de Paul Church (RC)
+HOUSTON - TLC, TX, trad, Theresa Mohnke Memorial Carillon; Trinity Lutheran Church (LCMS)
+LUBBOCK - FM, TX, non-trad, Overton Memorial Bell Tower; First United Methodist Church
+LUBBOCK - TTU, TX, trad, Charles & Georgia Robertson Baird Memorial Carillon; Administration Building; Texas Tech University
+NACOGDOCHES, TX, non-trad, Griffith Fine Arts Building; Stephen F. Austin State University
+PARIS, TX, chime, DeShong Chapel; Paris Junior College
+ROSENBERG, TX, non-trad, The Jilji Louis Riha and Ruth Ellen Engelhardt Riha Memorial Carillon; Holy Rosary Catholic Church
+SAN ANTONIO - CC, TX, trad, Nordan Memorial Carillon; Central Christian Church
+SHERMAN, TX, trad, Wynne Chapel; Austin College
+TYLER - U, TX, non-trad, Riter Millennium Carillon Plaza; The University of Texas at Tyler
+VICTORIA --, TX, chime, Trinity Episcopal Church
+WACO - BU/2, TX, trad, McLane Carillon; Presley Tower; Pat Neff Hall (Administration); Baylor University
+WACO - BU/3, TX, non-trad, Chapel; George W. Truett Theological Seminary; Baylor University
+WACO - STA, TX, trad, St.Alban's Episcopal Church
+WICHITA FALLS - MSU, TX, trad, Redwine Carillon; Hardin Administration Building; Midwestern State University
+CEDAR CITY, UT, non-trad, Carter Carillon Tower; Southern Utah University
+PROVO, UT, trad, BYU Centennial Carillon; BYU Centennial Carillon Tower; Brigham Young University
+BURLINGTON, VT, chime, St.Paul's Episcopal Cathedral (originally St.Paul's PE Church)
+MIDDLEBURY, VT, trad, Mead Memorial Chapel; Middlebury College
+MONTPELIER, VT, chime, Trinity United Methodist Church
+NORTHFIELD, VT, trad, Charlotte Nichols Greene Memorial Carillon; Jeannie Porter Adams Memorial Tower; Norwich University
+PROCTOR, VT, chime, Union Church of Proctor
+RUTLAND, VT, chime, Grace Congregational Church (UCC)
+SAINT ALBANS, VT, chime, St.Luke's Episcopal Church
+ALEXANDRIA, VA, ring, Immanuel Chapel; Virginia Theological Seminary
+ARLINGTON, VA, trad, Netherlands Carillon; Netherlands Carillon Gardens
+CHARLOTTESVILLE, VA, trad, Sally Woods Rucker Memorial; Christ Episcopal Church
+COPPER HILL, VA, chime, Syon Abbey
+DANVILLE, VA, chime, Southside Center for Preservation and History (was Main St U Methodist Ch)
+FALLS CHURCH, VA, chime, St.Anthony of Padua Catholic Church
+FERRUM, VA, non-trad, Vaughn Memorial Tower; Ferrum College (formerly Ferrum Junior College)
+FRONT ROYAL, VA, chime, Christ the King Chapel; Christendom College
+HAMPTON, VA, chime, The Memorial Church; Hampton University (formerly Hampton Institute)
+LURAY, VA, trad, Belle Brown Northcott Memorial Carillon; Luray Singing Tower; Luray Caverns
+LYNCHBURG - C, VA, chime, Court Street United Methodist Church
+LYNCHBURG - LU, VA, non-trad, Freedom Tower; Liberty University
+LYNCHBURG - Q, VA, chime, Quaker Memorial Church (PCUSA)
+MIDDLETOWN --, VA, chime, Grace United Methodist Church (originally Grace M.E.South)
+MILLWOOD, VA, chime, Christ Church, Cunningham Chapel Parish (Episcopal)
+NEWPORT NEWS - OL, VA, chime, Our Lady of Mount Carmel Church
+NORFOLK - F, VA, chime, Freemason Street Baptist Church
+NORFOLK - VAF/mobile, VA, non-trad, VAF mobile carillon; Virginia Arts Festival (VAF)
+PETERSBURG, VA, chime, St.Paul's Episcopal Church
+RICHMOND - C, VA, chime, Talbott Chime; Centenary United Methodist Church
+RICHMOND - GHT, VA, chime, Grace & Holy Trinity Episcopal Church
+RICHMOND - J, VA, chime, Boatman's Tower; James Center
+RICHMOND - S, VA, chime, Sixth Street Market Place
+RICHMOND - WM, VA, trad, Virginia Soldiers' War Memorial
+ROANOKE - G, VA, chime, Greene Memorial Methodist Church
+ROANOKE - HC, VA, trad, Allie Nash Young Carillon; Jessie Ball DuPont Chapel; Hollins University (formerly Hollins College)
+RUTHER GLEN - 1, VA, ring, B. A. Sunderlin Bell Foundry
+RUTHER GLEN - 2/mobile, VA, trad, Mobile carillon; B. A. Sunderlin Bell Foundry
+VINTON, VA, non-trad, Thrasher Memorial United Methodist Church
+WINCHESTER, VA, chime, Glaize Memorial; Grace Evang. Lutheran Church (ELCA)
+LONGVIEW, WA, chime, Longview Community Church
+SEATTLE - CTC, WA, non-trad, The Washington State Centennial Bell Garden; Washington State Convention and Trade Center
+SEATTLE - UW/2, WA, ring, The Gordon Stuart Peek Foundation Memorial Bells; Gerberding Hall; University of Washington
+SEATTLE - UW/3, WA, trad, Kane Hall; University of Washington
+SPOKANE - C, WA, trad, Carillon in Thanksgiving for the Life and Work of George Frederick Jewett; Bishop Cross Tower; Cathedral of St.John the Evangelist
+VANCOUVER, WA, non-trad, Salmon Run Bell Tower; Esther Short Park
+WHITE SALMON, WA, chime, City Hall
+ATHENS, WV, trad, The Marsh Family Memorial Carillon; Joseph F. Marsh Hall (Administration Building); Concord University
+HUNTINGTON, WV, chime, Thornburg Carillon [sic]; James E. Morrow Library; Marshall University
+MORGANTOWN, WV, chime, Wesley United Methodist Church
+MOUNDSVILLE, WV, chime, Simpson United Methodist Church (was First M.E. Church)
+PHILIPPI, WV, non-trad, Jean Cunningham Bell Tower [demolished]; Wilcox Chapel; Alderson Broadus University
+BARABOO, WI, chime, Ringling Bros. Bell Wagon; Circus World Museum
+EAU CLAIRE - C, WI, chime, Christ Church Cathedral
+EAU CLAIRE - G, WI, chime, Grace Lutheran Church (ELCA)
+FOND DU LAC - P, WI, chime, Pilgrim United Church of Christ
+FOND DU LAC - STP, WI, chime, Cathedral Church of St.Paul (Episcopal)
+GREEN BAY - FL, WI, trad, Kaap Memorial Carillon; First Evangelical Lutheran Church
+JANESVILLE, WI, chime, First Congregational Church, UCC
+MADISON - GC, WI, non-trad, Grace Episcopal Church
+MADISON - UW, WI, trad, Memorial Carillon; Carillon Tower; University of Wisconsin
+MILWAUKEE - CDLC, WI, chime, Capitol Drive Lutheran Church (ELCA)
+MILWAUKEE - MU, WI, trad, The Marquette University Carillon; Rooftop belfry; Marquette Building
+Milwaukee, WI, great, City Hall
+NASHOTAH, WI, ring, Nashotah House Theological Seminary (in storage)
+NEILLSVILLE, WI, chime, United Church of Christ
+NEW GLARUS - B, WI, chime, New Glarus Brewing Company
+NEW GLARUS - RM, WI, chime, Re/Max Preferred (was Bank of New Glarus drive-up)
+OSHKOSH, WI, chime, Trinity Episcopal Church
+PEWAUKEE, WI, chime, *See NASHOTAH
+RACINE - STL, WI, chime, St.Luke's Episcopal Church
+WISCONSIN DELLS, WI, chime, The Bavarian Village
+CHEYENNE, WY, chime, St.Mark's Episcopal Church
+LARAMIE, WY, chime, St.Matthew's Episcopal Cathedral (formerly St.Matthew's Church)
+
