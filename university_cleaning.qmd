@@ -11,12 +11,24 @@ editor_options:
 library(tidyverse)
 library(here)
 library(janitor)
+library(dplyr)
+library(rvest) # For web scraping
+library(httr) # For web scraping
+library(xml2) # For web scraping
+library(future) # For parallel processing
+library(furrr)
 ```
 
 
 ```{r}
 # Read in and label hd2023.csv
 universities <- read_csv(here('data', 'hd2023.csv'))
+towers <- read_csv(here('data', 'towers.csv'))
+bells_fl_ga_hi_id_il <- read_csv(here('data', 'Bells_FL_GA_HI_ID_IL.csv'))
+bells_co_ct_de_dc <- read_csv(here('data', 'Bells_CO_CT_DE_DC.csv'))
+bells_in_states <- read_csv(here('data', 'Bells_In_States.csv'))
+bell_tower_locations <- read_csv(here('data', 'Bell_Tower_Locations.csv'))
+bells_tn <- read_csv(here('data', 'tennessee_bell_towers.csv'))
 ```
 
 ```{r}
@@ -42,5 +54,35 @@ universities_filtered <- universities %>%
     COUNTYNM,        # County name
     INSTSIZE         # Institution size
   )
+```
+
+
+```{r}
+# Separate the 'Country-State' column into 'Country' and 'State'
+bells_fl_ga_hi_id_il <- bells_fl_ga_hi_id_il %>%
+  separate(`Country-State`, into = c("Country", "State"), sep = " - ")
+```
+
+```{r}
+# Rename columns
+bells_fl_ga_hi_id_il <- bells_fl_ga_hi_id_il %>%
+  rename(
+    City = Location,
+    Location = Description
+  )
+```
+
+
+```{r}
+# Binding bells data
+
+# Merge all datasets
+some_bells <- bind_rows(
+  bells_fl_ga_hi_id_il,
+  bells_co_ct_de_dc,
+  bell_tower_locations,
+  bells_tn,
+  bells_in_states
+)
 ```
 
